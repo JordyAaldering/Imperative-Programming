@@ -1,3 +1,12 @@
+# IDE generated files
+*.cbp
+*.depend
+*.layout
+
+# Build output folders
+[Bb]in/
+[Oo]bj/
+
 # Prerequisites
 *.d
 

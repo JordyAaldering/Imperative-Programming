@@ -1,0 +1,14 @@
+C:\Users\Aalde\Documents\School\Radboud\Jaar 1\Imperatief Programmeren\Assignment9\main.cpp:32:2: error: using typedef-name 'std::__cxx11::string' after 'struct'
+  string artist;                          // naam van uitvoerende artiest
+  ^~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iosfwd:39:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from C:\Users\Aalde\Documents\School\Radboud\Jaar 1\Imperatief Programmeren\Assignment9\main.cpp:12:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stringfwd.h:74:33: note: 'std::__cxx11::string' has a previous declaration here
+   typedef basic_string<char>    string;
+                                 ^~~~~~
+C:\Users\Aalde\Documents\School\Radboud\Jaar 1\Imperatief Programmeren\Assignment9\main.cpp:40:1: error: expected declaration before '}' token
+ };
+ ^
